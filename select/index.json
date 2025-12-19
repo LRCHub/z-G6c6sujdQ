@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Candy Blaze （映画『仮面ライダーガヴ お菓子の家の侵略者』主題歌）",
+  "base_artist": "FANTASTICS from EXILE TRIBE",
+  "createdAt": "2025-12-19T07:16:59.824060Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Candy Blaze",
+      "artist": "FANTASTICS",
+      "has_synced": false,
+      "path": "select/pl_01_Candy_Blaze_FANTASTICS.txt"
+    }
+  ]
+}
